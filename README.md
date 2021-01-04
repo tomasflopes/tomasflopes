@@ -1,4 +1,5 @@
-<p align="center" size="22">👋 Welcome to my profile 👋</p>
+# <p align="center">👋 Welcome to my profile 👋</p>
+
 I'm Tomás, a portuguese software engineer student 🎓
 
 <a href="https://twitter.com/tomaslopes_dev">
