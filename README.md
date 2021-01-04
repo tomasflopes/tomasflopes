@@ -1,6 +1,6 @@
 # <p align="center">👋 Welcome to my profile 👋</p>
 
-#### I'm Tomás, a portuguese software engineer student 🎓
+### I'm Tomás, a portuguese software engineer student 🎓
 
 <a href="https://twitter.com/tomaslopes_dev">
   <img align="left" alt="Tomás Lopes | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
