@@ -21,5 +21,3 @@
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomas050302&layout=compact&theme=tokyonight&langs_count=6" />
 </p>
-
-#### Currently working on side projects
