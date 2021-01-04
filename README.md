@@ -13,11 +13,7 @@
   </a>
 </p>
 
-<br/>
-
----
-
-<br/>
+# Stats
 
 <p align=center>
   <img src="https://github-readme-stats.vercel.app/api?username=tomas050302&count_private=true&show_icons=true&theme=tokyonight&hide=contribs,prs" />
