@@ -2,7 +2,7 @@
 
 ### I'm Tomás, a portuguese software engineer student 🎓
 
-## Socials
+# Socials
 
 <p align=center>
   <a href="https://twitter.com/tomaslopes_dev">
