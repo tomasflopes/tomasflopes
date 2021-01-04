@@ -2,6 +2,8 @@
 
 ### I'm Tomás, a portuguese software engineer student 🎓
 
+## Socials
+
 <p align=center>
   <a href="https://twitter.com/tomaslopes_dev">
     <img align="left" alt="Tomás Lopes | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -10,6 +12,8 @@
     <img align="left" alt="Tomás Lopes | Linkedin" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
 </p>
+
+---
 
 <br/>
 
