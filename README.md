@@ -1,6 +1,6 @@
 # <p align="center">👋 Welcome to my profile 👋</p>
 
-### I'm Tomás, a portuguese software engineer student 🎓
+#### I'm Tomás, a portuguese software engineer student 🎓
 
 # Socials
 
@@ -21,3 +21,8 @@
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomas050302&layout=compact&theme=tokyonight&langs_count=6" />
 </p>
+
+## Projects I'm working on
+
+- Learning NodeJS with TypeScript
+- Side projects to implement the MERN stack
