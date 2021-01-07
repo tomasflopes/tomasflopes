@@ -26,5 +26,5 @@
 
 - Learning NodeJS with TypeScript
 - Side projects to implement the MERN stack
-  - Finances App
+  - Expenses App
   - Gym App
