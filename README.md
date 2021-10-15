@@ -1,18 +1,5 @@
 # <p align="center">👋 Welcome to my profile 👋</p>
 
-#### I'm Tomás, a portuguese software engineer student 🎓
-
-# Socials
-
-<p align=center>
-  <a href="https://twitter.com/tomaslopes_dev">
-    <img align="center" alt="Tomás Lopes | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-  </a>
-  <a href="https://www.linkedin.com/in/tom%C3%A1s-lopes-021907172/">
-    <img align="center" alt="Tomás Lopes | Linkedin" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
-</p>
-
 # Stats
 
 <p align=center>
