@@ -1,6 +1,6 @@
 # <p align="center">👋 Welcome to my profile 👋</p>
 
-# Software Engeneering Student @ ISEP
+# <p align=center>Software Engeneering Student @ ISEP</p>
 
 ## Technolgies
 
