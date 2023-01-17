@@ -6,6 +6,7 @@
 
 # Technolgies
 
+<p>
 <img src="assets/typescript.png" width="30px"/>
 <img src="assets/js.png" width="30px"/>
 <img src="assets/node-js.png" width="30px"/>
@@ -14,7 +15,7 @@
 <img src="assets/css-3.png" width="30px"/>
 <img src="assets/java.png" width="30px"/>
 <img src="assets/python.png" width="30px"/>
-
+</p>
 # Recent Activity
 
 <p align=center>
