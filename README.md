@@ -1,6 +1,6 @@
 # <p align="center">👋 Welcome to my profile 👋</p>
 
-# <p align=center> <p>Software Engeneering Student @ ISEP</p><p align=center>Fullstack Developer</p></p>
+# <p align=center> <p align=center>Software Engeneering Student @ ISEP</p><p align=center>Fullstack Developer</p></p>
 
 ## Technolgies
 
