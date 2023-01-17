@@ -1,15 +1,6 @@
 # <p align="center">👋 Welcome to my profile 👋</p>
 
-# Stats
-
-<p align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=tomas050302&count_private=true&show_icons=true&theme=tokyonight&hide=contribs,prs" />
-  <br />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomas050302&layout=compact&theme=tokyonight&langs_count=6" />
-  <br />
-  <br />
-</p>
+## Software Engeneering Student @ ISEP & FullStack developer
 
 # Recent Activity
 
