@@ -13,7 +13,7 @@
   <br/>
   <br/>
 
-  **My work, projects, and journey — all in one place.**
+  **My work, projects and journey.**
 
   [🌐 Visit my website](https://tomasflopes.github.io/)
 
@@ -23,10 +23,10 @@
 
 I'm a Software Engineer passionate about building reliable backend systems and exploring the challenges of distributed architectures.
 
-- 💻 **Tech stack:** Java, Spring, Kafka, and Microservices
-- 🏗️ **Interests:** Distributed Systems, System Design, and Software Architecture
+- 💻 **Tech stack:** Java, Spring, Kafka and Microservices
+- 🏗️ **Interests:** Distributed Systems, System Design and Software Architecture
 - 🎓 **Purpose:** Technology that improves education and mobility
-- 🤝 **Beyond code:** Student leadership, technical workshops, and collaborative projects
+- 🤝 **Beyond code:** Student leadership, technical workshops and collaborative projects
 
 ---
 
